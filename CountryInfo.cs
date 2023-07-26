@@ -8,15 +8,15 @@ namespace HttpRequest
 {
     internal class CountryInfo
     {
-        String officialName;
-        String capital;
-        Double area;
+        public String officialName;
+        public List<String> capital;
+        public Double area;
 
-        public CountryInfo(String officialName, String capital, Double area)
-        {
-            this.officialName = officialName;
-            this.capital = capital;
-            this.area = area;
-        }
+        //public CountryInfo(String officialName, String capital, Double area)
+        //{
+        //    this.officialName = officialName;
+        //    this.capital = capital;
+        //    this.area = area;
+        //}
     }
 }

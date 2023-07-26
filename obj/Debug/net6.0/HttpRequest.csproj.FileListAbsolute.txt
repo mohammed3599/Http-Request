@@ -13,3 +13,5 @@ C:\Users\LAB-7\source\repos\HttpRequest\HttpRequest\obj\Debug\net6.0\refint\Http
 C:\Users\LAB-7\source\repos\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.pdb
 C:\Users\LAB-7\source\repos\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.genruntimeconfig.cache
 C:\Users\LAB-7\source\repos\HttpRequest\HttpRequest\obj\Debug\net6.0\ref\HttpRequest.dll
+C:\Users\LAB-7\source\repos\HttpRequest\HttpRequest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LAB-7\source\repos\HttpRequest\HttpRequest\obj\Debug\net6.0\HttpRequest.csproj.CopyComplete
